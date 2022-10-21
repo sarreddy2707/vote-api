@@ -1,4 +1,4 @@
-module github.com/sthaha/vote-api-server
+module github.com/sarreddy2707/vote-api-server
 
 go 1.13
 
